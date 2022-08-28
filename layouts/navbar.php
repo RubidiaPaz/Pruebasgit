@@ -2,13 +2,9 @@
     <div class="position-sticky pt-3">
       <ul class="nav flex-column">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
-            <span data-feather="home"></span>
-            
-          </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="primerversion.html">
+          <a class="nav-link" href="primeraversion.php">
             <span data-feather="file"></span>
             Primera Versión
           </a>
