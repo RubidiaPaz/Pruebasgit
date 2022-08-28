@@ -10,9 +10,9 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="guialab.php">
             <span data-feather="shopping-cart"></span>
-            Products
+            Guias Laboratorio
           </a>
         </li>
         <li class="nav-item">
