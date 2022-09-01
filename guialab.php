@@ -30,7 +30,7 @@ include "layouts/header.php";
                 </tr>
                 <tr>
                 <th scope="row">Guia 2</th>
-                <td>Thornton</td>
+                <td><a href="https://github.com/RubidiaPaz/pruebasreact.git">Ejemplo de Lista</a></td>
                 </tr>
             </tbody>
         </table> 
